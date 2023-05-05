@@ -2,7 +2,7 @@
 Henry Liao portfolio
 
 
-# [Project 1 : Data Analytics on Energy Consumption and Greenhouse Gas Emission for Prince Edward Island (PEI) rental stocks](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2)
+# [Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) rental households](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2)
 
 This is the research project I worked with Government of Prince Edward Island.
 
