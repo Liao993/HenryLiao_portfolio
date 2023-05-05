@@ -10,7 +10,7 @@ This is the research project I worked with the Government of PEI. The Department
 
 ![PEI2040](pei2040.jpg)
 
-The following are some key findings of this project, and the complete analysis process can be seen from the link.
+The following are some key findings of this project, and the complete analysis process can be seen from the project 1 link.
 
 * **Heating** (Space and Water heating) accounts for 90% of total energy usage in PEI household
 * **All Greenhouse Emissions** in household are from **heating** becasue of heating oil usage in PEI
