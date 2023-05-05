@@ -16,9 +16,15 @@ The following are some key findings of this project, and the complete analysis p
 
 ## [Project 2 : American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
 
-this is
+[dataset](https://www.kaggle.com/datasets/akhilv11/border-crossing-entry-data)
 
-* Data
+The Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States.
+
+I used this dataset to discover the busiest ports in the United States as well as the border crossing situations.
+
+there are some key obsevations I found from this dataset
+
+*  North Dakota is the most in US-Canada border, and Texas is for US-Mexico because the number of ports are the most in these two states.
 * Bata
 * Fature
 
