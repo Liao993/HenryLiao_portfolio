@@ -30,7 +30,7 @@ there are some key obsevations I found from this dataset
 
 * The top 3 measures are personal vehicles passengers, personal vehicles and trucks. This is similar in each state
 * **The number of ports** between Canada and States are more than that between Mexico and States, and this is why the count of data for US-Canada border is significant higher. If we count **the number of entries**, Mexico was much higher than Canada.
-*  In the top 20 busiest ports, eight in Texas, 4 in CA, 3 in AZ. In other words, 75% of top 20 are between US and Mexico border.
+* 75% of top 20 are between US and Mexico border.
 * the number of entries between US-Canada border decreased by 80% in 2018 as well as US-Mexico border
 * The majority of entries between US-Canada and US-Mexico are due to Mexican seasonal workers, and this can infer why the **US-Mexico border closed by trump** also affected the number of entries between US and Canada.
 
