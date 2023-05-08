@@ -51,7 +51,7 @@ The following notes are my interesting finding from SQL, and you can check my SQ
 
 From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
 
-## [Project 4 : Exploratory and Machine Learing on Drug Classification with Cross Validation](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf)
+## [Project 4 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf)
 
 ![drug](drug.png)
 
