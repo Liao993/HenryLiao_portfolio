@@ -44,9 +44,9 @@ The following notes are my interesting finding from SQL, and you can check my SQ
 
 1. The most productive year for Data professor is 2021 and 2022
 2. The top 3 popular videos are (both on the view_count and like_count leaderboard) 
-      - How to Build your First Data Science Web App in Python - Streamlit Tutorial # 1 <br>
-      - Web App in R : Building Your First Web Application in R | Shiny Tutorial Ep 1 <br>
-      - Bioinformatics Project from Scratch - Drug Discovery Part 1 <br>
+      1. How to Build your First Data Science Web App in Python - Streamlit Tutorial # 1 </br>
+      2. Web App in R : Building Your First Web Application in R | Shiny Tutorial Ep 1 </br>
+      3. Bioinformatics Project from Scratch - Drug Discovery Part 1 </br>
 3. In the top 20 popular video (most view), all are published before 2021-04-13, except for the video "how to summerize text using ChatGPT", which is 11th on view_count leaderboard. However, the number of view doesn't reflect the number of likes. it only got 67th on like_count leaderboard.
 
 From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
