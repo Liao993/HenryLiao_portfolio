@@ -1,6 +1,6 @@
 # HenryLiao_portfolio
 
-# My Data Analytic project
+# My Data Analytic Project
 
 
 ## [Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2)
@@ -60,7 +60,7 @@ From my explaination. CharGPT can increase people interest to watch the video, b
  - Build KNN classification model with crosss validation
 
 I have also did some web developemnt projects to gear up my coding skills
-# My Web Developmeny project
+# My Web Development Project
 ## [Project 1 : Blog Website for Global Island Traveling Experience](https://liao993.github.io/home.html)
 
 the complete code can be seen from [here](https://github.com/Liao993/Liao993.github.io.git)
