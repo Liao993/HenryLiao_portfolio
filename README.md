@@ -21,7 +21,7 @@ The following are some key findings of this project, and the complete analysis p
 [dataset](https://www.kaggle.com/datasets/akhilv11/border-crossing-entry-data)
 
 The Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States.
-![US border (image credited CTV News)](https://beta.ctvnews.ca/content/dam/ctvnews/images/2021/5/31/1_5450179.jpg?cache_timestamp=1622491406080)
+![US border](border.png)
 
 I used this dataset to discover the busiest ports in the United States as well as the border crossing situations.
 
