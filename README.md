@@ -58,4 +58,9 @@ From my explaination. CharGPT can increase people interest to watch the video, b
  - Univarate Analysis and Bivariate analysis on different features, such as age, blood pressure with different drug types
  - Label Encoding : Na to Potassium Ration > 15  for specific drug Y
  - Build KNN classification model with crosss validation
- 
+
+I have also did some web developemnt projects to gear up my coding skills
+# My Web Developmeny project
+## [Project 1 : Blog Website for Global Island Traveling Experience](https://liao993.github.io/home.html)
+
+the complete code can be seen from [here](https://github.com/Liao993/Liao993.github.io.git)
