@@ -2,7 +2,6 @@
 
 # My Data Analytic Project
 
-
 ## [Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2)
 
 
