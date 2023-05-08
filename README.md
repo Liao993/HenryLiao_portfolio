@@ -36,7 +36,7 @@ there are some key obsevations I found from this dataset
 
 ## [Project 3 : Top 10 popular videos from Youtube API (Python / SQL)](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing)
 
-![PEI2040](Scatterplot.png)
+![scatterplot](Scatterplot.png)
 
 With a biotechnology background, I am curious how to become a data scientist from a biologist. Therefore, I found the Youtuber Data Professor and I am interested in the statistic information of Data Professor youtube channel. I grabbed data from Youtube API and found out top 10 popular videos with SQL.
 
