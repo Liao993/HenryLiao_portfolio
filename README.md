@@ -50,3 +50,9 @@ The following notes are my interesting finding from SQL, and you can check my SQ
 3. In the top 20 popular video (most view), all are published before 2021-04-13, except for the video "how to summerize text using ChatGPT", which is 11th on view_count leaderboard. However, the number of view doesn't reflect the number of likes. it only got 67th on like_count leaderboard.
 
 From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
+
+## [Project 4 : Exploratory and Machine Learing on Drug Classification with Cross Validation](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf)
+ - Univarate Analysis and Bivariate analysis on different features, such as age, blood pressure with different drug types
+ - Label Encoding : Na to Potassium Ration > 15  for specific drug Y
+ - Build KNN classification model with crosss validation
+ 
