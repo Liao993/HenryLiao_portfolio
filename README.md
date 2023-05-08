@@ -34,3 +34,18 @@ there are some key obsevations I found from this dataset
 * the number of entries between **US-Canada border decreased by 80%** in 2018 as well as US-Mexico border
 * The majority of entries between US-Canada and US-Mexico are due to Mexican seasonal workers, and this can infer why the **US-Mexico border closed by trump** also affected the number of entries between US and Canada.
 
+## [Project 3 : [Top 10 popular videos from Youtube API (Python / SQL](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing)
+
+
+With a biotechnology background, I am curious how to become a data scientist from a biologist. Therefore, I found the Youtuber Data Professor and I am interested in the statistic information of Data Professor youtube channel. I grabbed data from Youtube API and found out top 10 popular videos with SQL.
+
+The following notes are my interesting finding from SQL, and you can check my SQL from this link
+
+1. The most productive year for Data professor is 2021 and 2022
+2. The top 3 popular videos are (both on the view_count and like_count leaderboard) 
+     > How to Build your First Data Science Web App in Python - Streamlit Tutorial # 1
+     > Web App in R : Building Your First Web Application in R | Shiny Tutorial Ep 1
+     > Bioinformatics Project from Scratch - Drug Discovery Part 1
+3. In the top 20 popular video (most view), all are published before 2021-04-13, except for the video "how to summerize text using ChatGPT", which is 11th on view_count leaderboard. However, the number of view doesn't reflect the number of likes. it only got 67th on like_count leaderboard.
+
+From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
