@@ -64,6 +64,7 @@ From my explaination. CharGPT can increase people interest to watch the video, b
 the complete code can be seen from [here](https://github.com/Liao993/Liao993.github.io.git)
 
 
-## [Project 2 : Restful API for traveling expenses notes (JavaScript/ Express / Node.js)](https://liao993.github.io/home.html)
-1. I Used Prisma as the ORM (Object-Relational Mapping) tool to define the database schema, generate the SQL queries, and provide a type-safe API for accessing the database.
-2. 
+## [Project 2 : Restful API for traveling expenses notes (JavaScript/ Express / Node.js)](https://github.com/Liao993/travel-expense-restfulapi/tree/master)
+1. Used a POST method in this RESTful API project to create a new resource or record by submitting data to the server.
+2. Used Prisma as the ORM (Object-Relational Mapping) tool to define the database schema, generate the SQL queries, and provide a type-safe API for accessing the database.
+3. Data Validation to make sure the correctness of data type between controller layer, service layer and database layer
