@@ -62,3 +62,8 @@ From my explaination. CharGPT can increase people interest to watch the video, b
 ## [Project 1 : Blog Website for Global Island Traveling Experience](https://liao993.github.io/home.html)
 
 the complete code can be seen from [here](https://github.com/Liao993/Liao993.github.io.git)
+
+
+## [Project 2 : Restful API for traveling expenses notes (JavaScript/ Express / Node.js)](https://liao993.github.io/home.html)
+1. I Used Prisma as the ORM (Object-Relational Mapping) tool to define the database schema, generate the SQL queries, and provide a type-safe API for accessing the database.
+2. 
