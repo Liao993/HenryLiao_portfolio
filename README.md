@@ -56,9 +56,11 @@ From my explaination. CharGPT can increase people interest to watch the video, b
  - Label Encoding : Na to Potassium Ration > 15  for specific drug Y
  - Build KNN classification model with crosss validation
 
-<font size= 10>**I have also did some web developemnt projects to gear up my coding skills** </font>
+## [Tableau profile](https://public.tableau.com/app/profile/hungen.liao)
 
-## [Tableau profile] (https://public.tableau.com/app/profile/hungen.liao)
+<font size= 20>**I have also did some web developemnt projects to gear up my coding skills** </font>
+
+
 # My Web Development Project
 ## [Project 1 : Blog Website for Global Island Traveling Experience](https://liao993.github.io/home.html)
 
