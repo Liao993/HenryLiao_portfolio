@@ -58,7 +58,7 @@ From my explaination. CharGPT can increase people interest to watch the video, b
 
 ## [Tableau profile](https://public.tableau.com/app/profile/hungen.liao)
 
-<font size= 20>**I have also did some web developemnt projects to gear up my coding skills** </font>
+<font size= 10>**I have also did some web developemnt projects to gear up my coding skills** </font>
 
 
 # My Web Development Project
