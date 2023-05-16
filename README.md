@@ -18,8 +18,7 @@ The following are some key findings of this project, and the complete analysis p
 ## [Project 2 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
 
 Exploratory Data Analysis on United States border crossing situations between Canada and Mexico, using data visualization for displaying the results<br>
-**The tools I used:**<br>
-Python (Pandas, Seaborn, Matplotlib)
+**The tools I used:** Python (Pandas, Seaborn, Matplotlib)<br>
 **Key findings**<br>
 The majority of entries between US-Canada and US-Mexico are due to Mexican seasonal workers, and this can infer why the **US-Mexico border closed by trump** also affected the number of entries between US and Canada
 
