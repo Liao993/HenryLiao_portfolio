@@ -76,7 +76,7 @@ From my explaination. CharGPT can increase people interest to watch the video, b
 
 ## Project 5 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation
 
-To see more detail in the complete Project, please [click] (https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf) here.
+To see more detail in the complete Project, please [click](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf) here.
 
 ![drug](drug.png)
 
@@ -84,9 +84,10 @@ To see more detail in the complete Project, please [click] (https://www.kaggle.c
  - Label Encoding : Na to Potassium Ration > 15  for specific drug Y
  - Build KNN classification model with crosss validation
 
-## [Tableau profile](https://public.tableau.com/app/profile/hungen.liao)
+## Tableau profile
+[click](https://public.tableau.com/app/profile/hungen.liao) here
 
-<font size= 5>I have also did some web developemnt projects to gear up my coding skills</font>
+<font size= 6>I have also did some web developemnt projects to gear up my coding skills</font>
 
 
 # My Web Development Project
