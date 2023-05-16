@@ -50,11 +50,18 @@ The majority of entries between US-Canada and US-Mexico are due to Mexican seaso
 
 
 
-## [Project 3 : Top 10 popular videos from Youtube API (Python / SQL)](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing)
+## Project 4 : Top 10 popular videos from Youtube API (Python / SQL)
 
-![scatterplot](Scatterplot.png)
+To see more detail in the complete Project, please [click] (https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing) here.
+
+
+**Project idea**<br>
 
 With a biotechnology background, I am curious how to become a data scientist from a biologist. Therefore, I found the Youtuber Data Professor and I am interested in the statistic information of Data Professor youtube channel. I grabbed data from Youtube API and found out top 10 popular videos with SQL.
+
+**Skills:** Python (re, pandas, API Request), Regression Analysis, R<br>
+
+![scatterplot](Scatterplot.png)
 
 The following notes are my interesting finding from SQL, and you can check my SQL code from [this link](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/HkDmsoLNh)
 
@@ -67,7 +74,9 @@ The following notes are my interesting finding from SQL, and you can check my SQ
 
 From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
 
-## [Project 4 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf)
+## Project 5 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation
+
+To see more detail in the complete Project, please [click] (https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf) here.
 
 ![drug](drug.png)
 
