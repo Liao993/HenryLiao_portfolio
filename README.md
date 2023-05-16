@@ -8,9 +8,9 @@ To see more detail in the complete Project, please [click](https://hackmd.io/@WY
 
 This is the research project I worked with the Government of PEI. The Department of Environment, Energy and Climate Action in the Government of PEI is working on **building a net zero greenhouse gas emissions community**. One of greenhouse emissions is from **household**. Therefore, my responsibility was to track the energy usage and carbon emission from PEI household in the past twenty years.
 
-![PEI2040](pei2040.jpg)
-
 **Skills:** Excel, Communication, Presentation, Data Visualization<br>
+
+![PEI2040](pei2040.jpg)
 
 The following are some key findings of this project, and the complete analysis process can be seen from the project 1 link.
 
@@ -29,7 +29,12 @@ PEI is developing wind energy and solar power to accelerate its renewable usage.
 
 **Skills:** Python (Pandas, Seaborn, Matplotlib), Energy Analysis<br>
 
-## [Project 3 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
+
+
+
+## Project 3 : Exploratory Data Analysis on American busiest ports and Mexican labor migration
+
+To see more detail in the complete Project, please [click](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration) here.
 
 **Project idea**<br>
 
@@ -45,11 +50,13 @@ Because US-Mexico and US-Canada data are both included in this dataset. Therefor
 
 **Skills:** Python (Pandas, Seaborn, Matplotlib), Data Cleaning, Time Analysis<br>
 
+![US border](border.png)
+
 **Key findings**<br>
 
 The majority of entries between US-Canada and US-Mexico are due to Mexican seasonal workers, and this can infer why the **US-Mexico border closed by trump** also affected the number of entries between US and Canada
 
-![US border](border.png)
+
 
 ## [Project 3 : Top 10 popular videos from Youtube API (Python / SQL)](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing)
 
