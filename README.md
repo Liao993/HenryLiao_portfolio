@@ -1,6 +1,6 @@
 # My Data Analytic Project
 
-## [Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2)
+## Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households
 
 To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
 
@@ -12,11 +12,16 @@ The following are some key findings of this project, and the complete analysis p
 
 * **Heating** (Space and Water heating) accounts for 90% of total energy usage in PEI household
 * **All Greenhouse Emissions** in household are from **heating** becasue of heating oil usage in PEI
-* Mobile house is the house type consumed the most energy because of the poor insulation
+* **Immigrantion** to PEI resulted in the increase of carbon emissions, but the improvement of building efficiency can slow down it.
+
+
+## Project 2 : PEI Wind Energy
 
 ## [Project 2 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
 
 **Project idea**<br>
+
+As an immigrant in Canada. I want to know more about Canada and its neighbour, so I came out with this project.
 
 Canada and United States has the longest border in the world, so I am curious what is the border crossing situation between Canada and United States.
 
