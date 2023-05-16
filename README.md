@@ -19,7 +19,7 @@ The following are some key findings of this project
 * **Immigrantion** to PEI resulted in the increase of carbon emissions, but the improvement of building efficiency can slow down it.
 
 
-## Project 2 : PEI Wind and Solar Energy Development to replace heating oil
+## Project 2 : PEI Wind and Solar Energy Development to Replace Heating Oil
 
 To see more detail in the complete Project, please [click](https://github.com/Liao993/PEI_RenewableEnergy.git) here.
 
