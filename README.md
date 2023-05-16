@@ -17,8 +17,17 @@ The following are some key findings of this project, and the complete analysis p
 
 ## [Project 2 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
 
-Exploratory Data Analysis on United States border crossing situations between Canada and Mexico, using data visualization for displaying the results<br>
+**Project idea**<br>
+Canada and United States has the longest border in the world, so I am curious what is the border crossing situation between Canada and United States.
+
+I got the data from The Bureau of Transportation Statistics (BTS) Border Crossing Data, which provides summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States. US Border Crossing
+
+I am going to use this dataset to discover the busiest ports in the United States as well as the border crossing situations.
+
+Because US-Mexico and US-Canada data are both included in this dataset. Therefore, I will make a comparsion of the inbound crossings situations between this two countries.
+
 **The tools I used:** Python (Pandas, Seaborn, Matplotlib)<br>
+
 **Key findings**<br>
 The majority of entries between US-Canada and US-Mexico are due to Mexican seasonal workers, and this can infer why the **US-Mexico border closed by trump** also affected the number of entries between US and Canada
 
