@@ -38,15 +38,7 @@ To see more detail in the complete Project, please [click](https://www.kaggle.co
 
 **Project idea**<br>
 
-As an immigrant in Canada. I want to know more about Canada and its neighbour, so I came out with this project.
-
-Canada and United States has the longest border in the world, so I am curious what is the border crossing situation between Canada and United States.
-
-I got the data from The Bureau of Transportation Statistics (BTS) Border Crossing Data, which provides summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States. US Border Crossing
-
-I am going to use this dataset to discover the busiest ports in the United States as well as the border crossing situations.
-
-Because US-Mexico and US-Canada data are both included in this dataset. Therefore, I will make a comparsion of the inbound crossings situations between this two countries.
+As an immigrant in Canada. I want to know more about Canada and its neighbour, so I came out with this project. Canada and United States has the longest border in the world, so I am curious what is the border crossing situation between Canada and United States.I got the data from The Bureau of Transportation Statistics (BTS) Border Crossing Data, which provides summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. Because US-Mexico and US-Canada data are both included in this dataset. Therefore, I will make a comparsion of the inbound crossings situations between this two countries in  my project.
 
 **Skills:** Python (Pandas, Seaborn, Matplotlib), Data Cleaning, Time Analysis<br>
 
