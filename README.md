@@ -21,7 +21,7 @@ The following are some key findings of this project, and the complete analysis p
 
 ## Project 2 : PEI Wind and Solar Energy Development to replace heating oil
 
-To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
+To see more detail in the complete Project, please [click](https://github.com/Liao993/PEI_RenewableEnergy.git) here.
 
 **Project idea**<br>
 
@@ -29,7 +29,7 @@ PEI is developing wind energy and solar power to accelerate its renewable usage.
 
 **Skills:** Python (Pandas, Seaborn, Matplotlib), Energy Analysis, Data Visualization<br>
 
-
+![PEIwind](wind.png)
 
 
 ## Project 3 : Exploratory Data Analysis on American busiest ports and Mexican labor migration
