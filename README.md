@@ -19,7 +19,7 @@ The following are some key findings of this project, and the complete analysis p
 * **Immigrantion** to PEI resulted in the increase of carbon emissions, but the improvement of building efficiency can slow down it.
 
 
-## Project 2 : PEI Wind and Solar Energy Development to support the electrification of PEI house heating system
+## Project 2 : PEI Wind and Solar Energy Development to replace heating oil
 
 To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
 
