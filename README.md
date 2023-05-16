@@ -4,9 +4,13 @@
 
 To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
 
+**Project idea**<br>
+
 This is the research project I worked with the Government of PEI. The Department of Environment, Energy and Climate Action in the Government of PEI is working on **building a net zero greenhouse gas emissions community**. One of greenhouse emissions is from **household**. Therefore, my responsibility was to track the energy usage and carbon emission from PEI household in the past twenty years.
 
 ![PEI2040](pei2040.jpg)
+
+**Skills:** Excel, Communication, Presentation, Data Visualization<br>
 
 The following are some key findings of this project, and the complete analysis process can be seen from the project 1 link.
 
@@ -15,9 +19,17 @@ The following are some key findings of this project, and the complete analysis p
 * **Immigrantion** to PEI resulted in the increase of carbon emissions, but the improvement of building efficiency can slow down it.
 
 
-## Project 2 : PEI Wind Energy
+## Project 2 : PEI Wind and Solar Energy Development to support the electrification of PEI house heating system
 
-## [Project 2 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
+To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
+
+**Project idea**<br>
+
+PEI is developing wind energy and solar power to accelerate its renewable usage. Continue to the project I did in Government of PEI, I am curious what is current wind energy generation and how much electricity does it need for replacing heating oil
+
+**Skills:** Python (Pandas, Seaborn, Matplotlib), Energy Analysis<br>
+
+## [Project 3 : Exploratory Data Analysis on American busiest ports and Mexican labor migration](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration)
 
 **Project idea**<br>
 
@@ -31,7 +43,7 @@ I am going to use this dataset to discover the busiest ports in the United State
 
 Because US-Mexico and US-Canada data are both included in this dataset. Therefore, I will make a comparsion of the inbound crossings situations between this two countries.
 
-**The tools I used:** Python (Pandas, Seaborn, Matplotlib)<br>
+**Skills:** Python (Pandas, Seaborn, Matplotlib), Data Cleaning, Time Analysis<br>
 
 **Key findings**<br>
 
