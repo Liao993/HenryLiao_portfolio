@@ -25,9 +25,9 @@ To see more detail in the complete Project, please [click](https://hackmd.io/@WY
 
 **Project idea**<br>
 
-PEI is developing wind energy and solar power to accelerate its renewable usage. Continue to the project I did in Government of PEI, I am curious what is current wind energy generation and how much electricity does it need for replacing heating oil
+PEI is developing wind energy and solar power to accelerate its renewable usage. From the project I did in Government of PEI, heating oil is the main contribution of carbon emissions from PEI. Therefore, I am curious what is current PEI wind  and solar power generation and how much electricity does it need for replacing heating oil
 
-**Skills:** Python (Pandas, Seaborn, Matplotlib), Energy Analysis<br>
+**Skills:** Python (Pandas, Seaborn, Matplotlib), Energy Analysis, Data Visualization<br>
 
 
 
