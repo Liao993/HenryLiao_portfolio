@@ -1,3 +1,6 @@
+# About
+I am Henry, a certificated data analyst who experiences in collecting, cleaning, analyzing, and visualizing data. With a background in biotechnology and sustainability, I possess the ability to derive valuable insights from complex datasets and present them in a clear and concise manner to stakeholders. My goal is to provide data-based solutions that enable organizations to enhance their performances and attain their objectives.  Driven by a passion for learning and a strong work ethic, I am enthusiastic about using my strong analytical, communication, and problem-solving skills, make me a valuable asset to any team looking to unlock the full potential of their data.
+
 # My Data Analytic Project
 
 ## Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households
