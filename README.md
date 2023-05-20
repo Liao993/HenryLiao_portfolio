@@ -60,7 +60,7 @@ The majority of entries between US-Canada and US-Mexico are due to Mexican seaso
 
 
 
-## Project 4 : Top 10 popular videos from Youtube API (Python / SQL)
+## Project 4 : Top 10 popular videos from Youtube API (Python / SQL / R)
 
 To see more detail in the complete Project, please [click](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing) here.
 
