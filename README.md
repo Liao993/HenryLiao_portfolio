@@ -3,9 +3,23 @@ I am Henry, a certificated data analyst who experiences in collecting, cleaning,
 
 # My Data Analytic Project
 
-## Project 1 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households
+## Project 1 : Retail Customer Segmentation Analysis with Kmeans Clustering
+
+To see more detail in the complete Project, please [click]([https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2](https://www.kaggle.com/code/hungenliao/retails-customer-segmentation-clustering)) here.
+
+**Project idea**<br>
+
+Smart Investment, less marketing resources waste. I utilized customer personality analysis allows businesses to adapt their products to suit the preferences of specific customer segments. Therefore, a company can analyze which customer segment is most inclined to purchase the product and focus their marketing efforts solely on that particular segment.
+
+**Skills:** Python (Pandas, Seaborn, Matplotlib), Machine Learning (Clustering), PCA, Data Visualization, Statistics Modeling<br>
+
+![PCA](pca.png)
+
+## Project 2 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households
 
 To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
+
+![PEI2040](pei2040.jpg)
 
 **Project idea**<br>
 
@@ -22,7 +36,7 @@ The following are some key findings of this project
 * **Immigrantion** to PEI resulted in the increase of carbon emissions, but the improvement of building efficiency can slow down it.
 
 
-## Project 2 : PEI Wind and Solar Energy Development to Replace Heating Oil
+## Project 3 : PEI Wind and Solar Energy Development to Replace Heating Oil
 
 To see more detail in the complete Project, please [click](https://github.com/Liao993/PEI_RenewableEnergy.git) here.
 
@@ -42,7 +56,7 @@ PEI is developing wind energy and solar power to accelerate its renewable usage.
 ![PEIwind](wind.png)
 
 
-## Project 3 : Exploratory Data Analysis on American busiest ports and Mexican labor migration
+## Project 4 : Exploratory Data Analysis on American busiest ports and Mexican labor migration
 
 To see more detail in the complete Project, please [click](https://www.kaggle.com/code/hungenliao/american-busiest-ports-and-mexican-labor-migration) here.
 
@@ -60,7 +74,7 @@ The majority of entries between US-Canada and US-Mexico are due to Mexican seaso
 
 
 
-## Project 4 : Top 10 popular videos from Youtube API (Python / SQL / R)
+## Project 5 : Top 10 popular videos from Youtube API (Python / SQL / R)
 
 To see more detail in the complete Project, please [click](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing) here.
 
@@ -81,7 +95,7 @@ The following notes are my interesting finding from SQL, and you can check my SQ
 
 From my explaination. CharGPT can increase people interest to watch the video, but it may not transfer to like if it is not innovative.
 
-## Project 5 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation
+## Project 6 : Exploratory Data Analysis and Machine Learning on Drug Classification with Cross Validation
 
 To see more detail in the complete Project, please [click](https://www.kaggle.com/code/hungenliao/drugs-classification-eda-ml-knn-rf) here.
 
