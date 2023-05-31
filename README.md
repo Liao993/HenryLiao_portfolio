@@ -111,7 +111,7 @@ To see more detail in the complete Project, please [click](https://www.kaggle.co
 ## Tableau profile
 [click](https://public.tableau.com/app/profile/hungen.liao) here
 
-<font size= 6>I have also did some web developemnt projects to gear up my coding skills</font>
+<font size= 6>I have also did some web developemnt projects as well</font>
 
 
 # My Web Development Project
