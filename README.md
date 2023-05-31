@@ -5,7 +5,7 @@ I am Henry, a certificated data analyst who experiences in collecting, cleaning,
 
 ## Project 1 : Retail Customer Segmentation Analysis with Kmeans Clustering
 
-To see more detail in the complete Project, please [click]([https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2](https://www.kaggle.com/code/hungenliao/retails-customer-segmentation-clustering)) here.
+To see more detail in the complete Project, please [click](https://www.kaggle.com/code/hungenliao/retails-customer-segmentation-clustering) here.
 
 **Project idea**<br>
 
