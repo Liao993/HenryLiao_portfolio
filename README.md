@@ -13,7 +13,7 @@ Smart Investment, less marketing resources waste. I utilized customer personalit
 
 **Skills:** Python (Pandas, Seaborn, Matplotlib), Machine Learning (Clustering), PCA, Data Visualization, Statistics Modeling<br>
 
-![PCA](pca.png)
+![PCA](pca.png) ![PCA](pca.png)
 
 ## Project 2 : Energy Consumption and Carbon Emission for Prince Edward Island (PEI) households
 
