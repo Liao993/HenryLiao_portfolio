@@ -19,7 +19,6 @@ Smart Investment, less marketing resources waste. I utilized customer personalit
 
 To see more detail in the complete Project, please [click](https://hackmd.io/@WY7WYsMqTwyJzJLs_SoHcQ/rkMAx2ME2) here.
 
-![PEI2040](pei2040.jpg)
 
 **Project idea**<br>
 
