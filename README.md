@@ -28,7 +28,8 @@ To see more detail in the complete Project, please [click](https://www.kaggle.co
 
 **Project Description**<br>
 
-In North America, the cost of medical insurance is a financial burden for the public. I am curious what factors will increase my payment if I want to buy a medical insurance. I built a regression ML model to predict the cost of insurance 
+The expense of healthcare coverage in North America poses a financial hardship for the general population. I am interested in understanding the elements that can raise my premiums when considering purchasing medical insurance. To address this, I developed a regression machine learning model that predicts the insurance cost.
+
 
 **Skills:** R (dplyr, tidyverse, ggplot2), Data Cleaning, Data Visualization, Hypothesis Testing, Feature engineering and Regression model<br>
 
