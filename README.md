@@ -37,7 +37,7 @@ The expense of healthcare coverage in North America poses a financial hardship f
 
 The above picture is the prediction result, with adjusted R in 0.87
 
-## Top 10 popular videos from Youtube API (Python / SQL / R)
+## Grabbing data from Youtube API and found Top 10 popular Video with MySQL (Python / SQL / R)
 
 To see more detail in the complete Project, please [click](https://colab.research.google.com/drive/1LDEiJ6CFclnHoXzq6ZAfRWXEmyll_e-x?usp=sharing) here.
 
