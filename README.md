@@ -43,9 +43,9 @@ To see more detail in the complete Project, please [click](https://colab.researc
 
 **Project Description**<br>
 
-With a biotechnology background, I am curious how to become a data scientist from a biologist. Therefore, I found the Youtuber Data Professor and I am interested in the statistic information of Data Professor youtube channel. I grabbed data from Youtube API and found out top 10 popular videos with SQL.
+With a biotechnology background, I am curious how to become a data scientist from a biologist. Therefore, I found the Youtuber Data Professor and I am interested in the statistic information of Data Professor youtube channel. I grabbed data from Youtube API and inserted my data into relational database for further SQL analysis.
 
-**Skills:** Python (re, pandas, API Request), Regression Analysis, R<br>
+**Skills:** SQL, Database, Python (re, pandas, API Request), Regression Analysis, R<br>
 
 ![scatterplot](Scatterplot.png)
 
